@@ -1,6 +1,6 @@
 ---
-title: "Posts by Category"
+title: "Sites que analisamos"
 layout: categories
-permalink: /categories/
+permalink: /sites/
 author_profile: true
 ---
