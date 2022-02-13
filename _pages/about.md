@@ -6,7 +6,7 @@ title: "A Equipe"
 # Grupo 5 - YALE
 
 ## Equipe:
-|Foto | Nome            | GitHub      | E-mail       | 
+|Foto | Nome            | GitHub      | E-mail      | 
 |-----|-----------------|-------------|-------------|
 | <img width='80' src='https://avatars.githubusercontent.com/u/30875663?v=4' alt='Imagem de perfil'> | Pedro Helias |[pedrohelias](https://github.com/pedrohelias) | pedrohelias95@hotmail.com |
 | <img width='80' src='https://avatars.githubusercontent.com/u/51386810?v=4' alt='Imagem de perfil'> | Maicon Rodrigues | [Maiconrq](https://github.com/Maiconrq) | nociamrq27@gmail.com |
