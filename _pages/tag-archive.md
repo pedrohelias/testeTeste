@@ -1,6 +1,6 @@
 ---
-title: "Posts by Tag"
-permalink: /tags/
+title: "Projeto"
+permalink: /project/
 layout: tags
 author_profile: true
 ---
