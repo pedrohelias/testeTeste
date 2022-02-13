@@ -1,9 +1,9 @@
 main:
-  - title: "O Projeto"
+  - title: "Projeto"
     url: /project/
   - title: "Análises de sites"
     url: /sites/
-  - title: "Tags"
-    url: /tags/
+  - title: "Pontos de Controle"
+    url: /pcs/
   - title: "A Equipe"
     url: /equipe/
